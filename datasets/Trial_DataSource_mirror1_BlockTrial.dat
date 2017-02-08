@@ -1,0 +1,7 @@
+$puzzle_name	start_x	start_y	square_size	end_x	end_y	end_size	time
+"image2_mirror.png"	223	36	5	196	61	10	300
+"image3_mirror.png"	532	62	5	490	53	10	300
+"image1_mirror.png"	520	53	5	482	62	10	300
+"image5_mirror.png"	517	25	5	483	27	10	300
+"image6_mirror.png"	545	215	5	464	177	10	300
+"image4_mirror.png"	526	14	5	480	12	10	300
